@@ -13,7 +13,7 @@ ALLOWED_HOSTS = [
     'precticumapi.hopto.org',
     '127.0.0.1',
     'localhost'
-    ]
+]
 
 
 # Application definition
